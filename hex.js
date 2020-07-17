@@ -16,7 +16,7 @@ function getRandomNumber() {
     return Math.floor(Math.random() * hex.length);
 }
 
-/* 
+/* My notes
 const niz = [1,2,3,4,5,6,7,8,9]; 
 let sum = 0;
 // struktura for petlje
